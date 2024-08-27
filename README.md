@@ -8,7 +8,7 @@ This project is a simple web application that displays detailed information abou
 - [Usage](#usage)
 
 ## Overview
-The My Favorite Football Team project provides an interactive interface for displaying the 1986 Argentina football team's information, 
+The Football Team project provides an interactive interface for displaying the 1986 Argentina football team's information, 
 including players and coaching staff. Users can filter the displayed players based on specific criteria such as position or nickname.
 
 ## Features
